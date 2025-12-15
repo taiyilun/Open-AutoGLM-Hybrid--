@@ -1,6 +1,5 @@
 # Open-AutoGLM 混合方案
 
-> 在手机上运行 Open-AutoGLM，无需电脑，随时随地使用 AI 自动化
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Android](https://img.shields.io/badge/Android-7.0%2B-green.svg)](https://www.android.com/)
